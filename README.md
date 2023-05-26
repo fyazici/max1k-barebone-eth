@@ -1,5 +1,5 @@
 # max1k-barebone-eth
-A simple 100BASE-TX demo using barebone MAX1000 IO pins.
+A simple 100BASE-TX demo using barebone MAX1000 IO pins. See [100BASE-TX](https://en.wikipedia.org/wiki/Fast_Ethernet#100BASE-TX).
 
 ## Usage
 Connect `PIO[0]` and `PIO[1]` pins to an ethernet connector (with or without transformer) with a pair of 47 Ohm series resistors. 
